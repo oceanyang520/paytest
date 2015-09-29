@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/cn/itcast/servlet/CallbackServlet.java=GBK
+encoding//src/cn/itcast/servlet/PayServlet.java=GBK
+encoding//src/cn/itcast/utils/PaymentUtil.java=utf-8
+encoding/<project>=GBK
